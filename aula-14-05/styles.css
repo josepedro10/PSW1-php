@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    background-color: #4a762e;;
+}
+.box {
+    background-color:#5c883f;
+    flex: 10;
+    margin-top: 25px;
+    height: 2000px;
+    border: 5px solid rgb(156, 156, 156);
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+h2 {
+    background-color: #5c883f;
+}
+pre {
+    background-color: #6d9a4f;
+    color: whitesmoke;
+    padding: 0px;
+}
